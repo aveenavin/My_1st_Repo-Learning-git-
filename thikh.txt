@@ -1,2 +1,3 @@
 bug-fix branch banakar mene ... Ek file banayi thikh.txt
 bug-fix branch banakar mene ek or  ... Ek file banayi thikh.txt
+one more bug after marge bug-fix 

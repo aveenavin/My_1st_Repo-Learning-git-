@@ -1,1 +1,2 @@
 mene file 1 ke andar likha kiya jo one folder me he 1
+i write in file1.txt for conflict and i use bug-fix branch

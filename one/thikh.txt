@@ -4,3 +4,5 @@ one more bug after marge bug-fix
 one more more bug after marge bug-fix 
 fiveth bug fix 
 sixth bug dix
+
+done by other developer 2 
